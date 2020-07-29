@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="home_header">Are you felling sick?</string>
+    <string name="home_desc">If you feel sick with any of covid-19 symptoms, please call immediately for help.</string>
+    <string name="home_call">Call Now</string>
+    <string name="home_news_header">News</string>
+    <string name="home_preventive_header">Prevention</string>
+    <string name="home_preventive1">Avoid Close Contact</string>
+    <string name="home_preventive2">Clean Your Hand Often</string>
+    <string name="home_preventive3">Wear a Face Mask</string>
+    <string name="home_test_header">Do your own test!</string>
+    <string name="home_test_desc">Follow the instruction to do your own test</string>
+    <string name="home_country_ina" translatable="false">INA</string>
+    <string name="null_text" translatable="false">null</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
