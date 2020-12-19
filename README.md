@@ -25,3 +25,4 @@ The application must implement Google's new single activity, rest fragment appro
 - Navigation component
 - Retrofit
 - Glide
+- Coroutines 
