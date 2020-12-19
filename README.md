@@ -17,7 +17,7 @@ The application must implement Google's new single activity, rest fragment appro
 - Seach news articles
 - more to be added.
 
-# Libraries to be used
+# Libraries
 
 - AndroidX
 - Room
