@@ -24,5 +24,4 @@ The application must implement Google's new single activity, rest fragment appro
 - LiveData
 - Navigation component
 - Retrofit
-- Work Manager
 - Glide
