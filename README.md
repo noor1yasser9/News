@@ -1,6 +1,6 @@
 # News
 
-News is a news application written in Kotlin that focuses on best practices and material design created by team.
+The goal is to create a News Feed app which gives a user regularly-updated news from the internet related to a particular topic, person, or location. In this project, use Guardian API. This is a well-maintained API which returns information in a JSON format.
 
 The API used in making this app is the [News API](https://newsapi.org/)
 
