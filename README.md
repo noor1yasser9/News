@@ -10,7 +10,7 @@ The application must implement Google's new single activity, rest fragment appro
 
 
 # Modules
-
+ 
 - Must use MVVM architecture
 - Home Feed containing Recent News showing headline and thumbnail
 - Bookmarked news articles
